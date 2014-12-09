@@ -1,4 +1,7 @@
-bundle
-rake db:setup
-rails c development
-Post.benchmark
+`bundle`
+
+`rake db:setup`
+
+`rails c development`
+
+`Post.benchmark`
