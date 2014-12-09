@@ -1,0 +1,2 @@
+class Tutorial < Post
+end
